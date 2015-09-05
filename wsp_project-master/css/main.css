@@ -4,7 +4,29 @@
 
 
 /* HEADER ============================== */
+body{
+    background: #707D7F;
+}
+
+header, section {
+    max-width:750px;
+    margin: 0 auto;
+}
 
 /* ABOUT ============================== */
 
 /* COMPONENTS ============================== */
+article{
+    margin:30px;
+    background-color: #B3C8CC;
+    padding:40px;
+}
+
+article img{
+    margin: 0 auto;
+    width: 600px;
+}
+
+h2{
+    font-weight: bold;
+}
