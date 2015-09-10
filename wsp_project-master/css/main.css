@@ -29,4 +29,22 @@ article img{
 
 h2{
     font-weight: bold;
+    padding-top: 10px;
+    margin-bottom: 5px;
+}
+
+a{
+    width: 220px;
+    margin-top: 15px;
+    border: 1px solid white;
+    display: inline-block;
+    padding:20px;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+}
+
+p{
+    border-top:2px solid black;
+    padding-top: 10px;
 }
