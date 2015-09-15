@@ -1,0 +1,46 @@
+/* Component Stylesheet 
+============================================================
+============================================================*/
+body{
+    font-size: 62.5%;
+color :white;
+}
+section{
+    max-width: 800px;
+    margin: 0 auto;
+}
+article{
+    width: 33.3%;
+    float: left;
+    /*border: solid black 2px;*/
+    text-align: center;
+}
+
+article:first-of-type{
+    background-color:#97af29 ;
+}
+article:nth-child(2){
+    background-color:#ee7238 ;
+}
+article:last-of-type{
+    background-color:#c73f4b ;
+}
+
+a{
+    width: 90px;
+    margin: 30px 0 30px 0;
+    border: 1px solid white;
+    display: inline-block;
+    padding:10px;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+}
+
+p{
+
+}
+
+h2{
+    
+}
