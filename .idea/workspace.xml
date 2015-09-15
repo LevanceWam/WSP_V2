@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ee83e12-7fd8-4357-8387-523fb139d7ae" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wsp_project-master/components copy/5/component.css" afterPath="$PROJECT_DIR$/wsp_project-master/components copy/5/component.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wsp_project-master/components copy/3/component.html" afterPath="$PROJECT_DIR$/wsp_project-master/components copy/3/component.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wsp_project-master/components copy/5/component.html" afterPath="$PROJECT_DIR$/wsp_project-master/components copy/5/component.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wsp_project-master/css/main.css" afterPath="$PROJECT_DIR$/wsp_project-master/css/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wsp_project-master/components copy/2/component.css" afterPath="$PROJECT_DIR$/wsp_project-master/components copy/2/component.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wsp_project-master/components copy/4/component.css" afterPath="$PROJECT_DIR$/wsp_project-master/components copy/4/component.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wsp_project-master/components copy/4/component.html" afterPath="$PROJECT_DIR$/wsp_project-master/components copy/4/component.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="WSP_V2.iws" />
@@ -40,21 +39,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="component.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/wsp_project-master/components copy/5/component.css">
+      <file leaf-file-name="component.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wsp_project-master/components copy/4/component.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4966443" vertical-offset="95" max-vertical-offset="870">
-              <caret line="31" column="30" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
+            <state vertical-scroll-proportion="-12.5" vertical-offset="0" max-vertical-offset="510">
+              <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="component.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wsp_project-master/components copy/5/component.html">
+      <file leaf-file-name="component.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wsp_project-master/components copy/4/component.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-13.125" vertical-offset="0" max-vertical-offset="630">
-              <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+            <state vertical-scroll-proportion="0.32561505" vertical-offset="0" max-vertical-offset="930">
+              <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -68,16 +67,17 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/wsp_project-master/components copy/4/component.html" />
         <option value="$PROJECT_DIR$/wsp_project-master/components copy/1/component.html" />
         <option value="$PROJECT_DIR$/wsp_project-master/components copy/2/component.html" />
-        <option value="$PROJECT_DIR$/wsp_project-master/components copy/2/component.css" />
         <option value="$PROJECT_DIR$/wsp_project-master/components copy/3/component.css" />
         <option value="$PROJECT_DIR$/wsp_project-master/index.html" />
         <option value="$PROJECT_DIR$/wsp_project-master/css/main.css" />
         <option value="$PROJECT_DIR$/wsp_project-master/components copy/3/component.html" />
         <option value="$PROJECT_DIR$/wsp_project-master/components copy/5/component.html" />
         <option value="$PROJECT_DIR$/wsp_project-master/components copy/5/component.css" />
+        <option value="$PROJECT_DIR$/wsp_project-master/components copy/2/component.css" />
+        <option value="$PROJECT_DIR$/wsp_project-master/components copy/4/component.html" />
+        <option value="$PROJECT_DIR$/wsp_project-master/components copy/4/component.css" />
       </list>
     </option>
   </component>
@@ -433,14 +433,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wsp_project-master/components copy/2/component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7073509" vertical-offset="0" max-vertical-offset="721">
-          <caret line="34" column="56" selection-start-line="34" selection-start-column="56" selection-end-line="34" selection-end-column="56" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../Classes/WSP/wsp_project-master/components/2/component.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.32214764" vertical-offset="0" max-vertical-offset="1500">
@@ -449,26 +441,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wsp_project-master/components copy/2/component.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="62" max-vertical-offset="1035">
-          <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wsp_project-master/components copy/1/component.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-21.916666" vertical-offset="284" max-vertical-offset="1005">
           <caret line="54" column="14" selection-start-line="54" selection-start-column="14" selection-end-line="54" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wsp_project-master/components copy/4/component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.0" vertical-offset="0" max-vertical-offset="465">
-          <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
           <folding />
         </state>
       </provider>
@@ -547,6 +523,22 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/wsp_project-master/components copy/2/component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.12963" vertical-offset="329" max-vertical-offset="1050">
+          <caret line="62" column="0" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wsp_project-master/components copy/2/component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7073509" vertical-offset="0" max-vertical-offset="721">
+          <caret line="34" column="56" selection-start-line="34" selection-start-column="56" selection-end-line="34" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/wsp_project-master/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-21.666666" vertical-offset="905" max-vertical-offset="1650">
@@ -555,18 +547,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/wsp_project-master/components copy/5/component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="125" max-vertical-offset="870">
+          <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="52" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/wsp_project-master/components copy/5/component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.125" vertical-offset="0" max-vertical-offset="630">
+        <state vertical-scroll-proportion="0.4368932" vertical-offset="0" max-vertical-offset="721">
           <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wsp_project-master/components copy/5/component.css">
+    <entry file="file://$PROJECT_DIR$/wsp_project-master/components copy/4/component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4966443" vertical-offset="95" max-vertical-offset="870">
-          <caret line="31" column="30" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
+        <state vertical-scroll-proportion="-12.5" vertical-offset="0" max-vertical-offset="510">
+          <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wsp_project-master/components copy/4/component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.32561505" vertical-offset="0" max-vertical-offset="930">
+          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
           <folding />
         </state>
       </provider>
