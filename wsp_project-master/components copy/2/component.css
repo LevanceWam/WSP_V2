@@ -27,12 +27,12 @@ img{
     margin-bottom: 10px;
 }
 
-a[href*='sports'], a[href*='drinks'], a[href*='spirits'], a[href*='baseball']{
+a{
     border: solid 1px #0048a4;
     background-color: #0048a4;
     padding: 5px;
     color: white;
-    text-transform: uppercase;
+
     font-weight: 400;
     text-decoration: none;
     font-size: .6em;
@@ -41,7 +41,7 @@ a[href*='more']{
     border: solid 2px #dddddd;
     padding: 5px;
     color: #dddddd;
-    text-transform: uppercase;
+    background-color: #fff;
     font-weight: 400;
     text-decoration: none;
     font-size: .9em;
@@ -53,7 +53,7 @@ p{
 }
 
 h1{
-    text-transform: uppercase;
+
     font-size: 1.9em;
 }
 
@@ -62,4 +62,9 @@ em{
     padding-bottom: 7px;
 
 
+}
+
+
+h1, a{
+    text-transform: uppercase;
 }

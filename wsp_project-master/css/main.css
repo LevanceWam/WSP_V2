@@ -20,7 +20,7 @@ header, section {
 /* COMPONENTS ============================== */
 article{
     margin:30px;
-    background-color: #d20c3b;
+    background-color: rgba(210,12,59,0.85);
     padding:40px;
 }
 
@@ -33,6 +33,7 @@ h2{
     font-weight: bold;
     padding-top: 10px;
     margin-bottom: 5px;
+    font-size: 25px ;
 }
 
 a{
@@ -44,12 +45,18 @@ a{
     text-align: center;
     font-weight: bold;
     color: white;
+    -moz-transition: all 0.5s ease 0s;
+    -webkit-transition: all 0.5s ease 0s;
+    -ms-transition: all 0.5s ease 0s;
+    -o-transition: all 0.5s ease 0s;
+    transition: all 0.5s ease 0s;
 }
 
 p{
     border-top:2px solid black;
     padding-top: 10px;
     line-height: 20px;
+    margin-bottom: 20px;
 }
 
 p:nth-child(2){
@@ -74,4 +81,9 @@ h1{
     color: white;
     font-size: 30px;
     margin-left: 30px;
+}
+
+a:hover{
+    background-color: #ffffff;
+    color: rgb(210,12,59);
 }
